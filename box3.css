@@ -1,0 +1,50 @@
+.container1{
+    background-color: rgb(164, 233, 233);
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    align-items: flex-start;
+    height: 100vh;
+    flex-flow: row nowrap;
+
+
+    
+
+}
+.child1{
+    min-height: 300px;
+    width: 500px;
+    background-color: yellowgreen;
+    align-self: flex-end;
+    
+   
+}
+.child2{
+    min-height: 350px;
+    width: 800px;
+    background-color: rgb(232, 129, 18);
+    align-self: center;
+    
+}
+.child3{
+    min-height: 200px;
+    width: 700px;
+    background-color: rgb(6, 139, 108);
+    
+    
+}
+.child4{
+    min-height: 300px;
+    width: 500px;
+    background-color: rgb(229, 158, 26);
+    align-self:flex-end ;
+}
+.child5{
+    min-height: 400px;
+    width: 500px;
+    background-color: rgb(181, 38, 136);
+    
+}
+

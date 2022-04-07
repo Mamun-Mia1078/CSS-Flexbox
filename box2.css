@@ -1,0 +1,47 @@
+.container1{
+    background-color: azure;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    
+
+}
+.child1{
+    min-height: 100px;
+    width: 200px;
+    background-color: yellowgreen;
+    
+   
+}
+.child2{
+    min-height: 150px;
+    width: 200px;
+    background-color: rgb(232, 129, 18);
+}
+.child3{
+    min-height: 200px;
+    width: 200px;
+    background-color: rgb(6, 139, 108);
+}
+.child4{
+    min-height: 300px;
+    width: 200px;
+    background-color: rgb(229, 158, 26);
+}
+.child5{
+    min-height: 400px;
+    width: 200px;
+    background-color: rgb(181, 38, 136);
+}
+.container2{
+    background-color: rgb(216, 228, 228);
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+    flex-direction: row-reverse;
+    margin: 50px 0;
+}
